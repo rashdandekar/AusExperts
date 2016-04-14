@@ -1,0 +1,56 @@
+
+.jumbotron { 
+    background-color:#79b5c3;
+    color: #d6d6d6;
+    padding:100px 25px;
+}
+
+.jumbotron h1{
+  font-family: 'Roboto', sans-serif;
+  font-size:50px;
+  /*font-weight:bold;*/
+}
+
+.jumbotron p{
+  font-size:25px;
+  font-family:'Roboto Condensed',sans-serif;
+}
+
+
+
+.container-fluid {
+  padding:60px 50px;
+}
+
+.container-fluid p {
+  font-size: 20px;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+.row {
+  padding-bottom: 50px;
+}
+
+/*
+.bg-myimage {
+    background-image:url(FrontPage_1.png);
+    background-repeat:no-repeat;
+}
+*/
+.logo {
+    font-size: 200px;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+}
+
+.btn:hover {
+    border: 1px solid black; /* #f4511e;*/
+    background-color: #fff !important;
+    color: black; /*#f4511 /*
+}
