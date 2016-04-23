@@ -92,7 +92,9 @@
         <p><strong>Our Solutions</strong></p>
         <p>Our consulting services encompass the entire range of subsurface deliverables, through exploration, appraisal, development and ongoing reservoir management.<br>We provide services for geophysics, petrophysics, geology, geophysics, reservoir engineering and petroleum engineering.</p>
         <div style="text-align:center">
-          <button class="btn btn-lg">Solutions</button>
+          <a href="Solutions.html" target="_self">
+            <button class="btn btn-lg">Solutions</button>
+          </a>
         </div>
       </div>
     </div>
@@ -100,9 +102,11 @@
       <div class="thumbnail">
         <img src="OurProjects.jpg" alt="Projects">
         <p><strong>Projects</strong></p>
-        <p>Bla bla bla</p>
+        <p>Our consultants have participated in the execution of a range of projects in their individual specialized areas as part of multidisciplinary teams for Field Development Planning or reservoir studoes</p>
         <div style="text-align:center">
-          <button class="btn btn-lg">Projects</button>
+          <a href="Project.html" target="_self">
+            <button class="btn btn-lg">Projects</button>
+          </a>
         </div>
         
       </div>
@@ -118,18 +122,21 @@
   <div class="row">
     <div class="col-sm-5">
       <p>Contact us and we'll get back to you shortly.</p>
-      <p><span class="glyphicon glyphicon-map-marker"></span>Perth, Australia</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span> Perth, Australia</p>
       <!-- <p><span class="glyphicon glyphicon-phone"></span> +614 292 296 96</p> -->
-      <p><span class="glyphicon glyphicon-envelope"></span>contact@ausexperts.com</p> 
+      <p><span class="glyphicon glyphicon-envelope"></span><a href="mailto:contact@auspexperts.com"> contact@ausexperts.com</a></p> 
     </div>
     <div class="col-sm-7">
+      <!--
       <div class="row">
+        
         <div class="col-sm-6 form-group">
           <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
         </div>
         <div class="col-sm-6 form-group">
           <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
         </div>
+        
       </div>
       <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
       <div class="row">
@@ -137,39 +144,41 @@
           <button class="btn btn-default pull-right" type="submit">Send</button>
         </div>
       </div> 
+      -->
+      <!-- Google maps -->
+        <!-- Set height and width with CSS -->
+        <div id="googleMap" style="height:400px;width:100%;"></div>
+        
+        <!-- Add Google Maps -->
+        <script src="http://maps.googleapis.com/maps/api/js"></script>
+        <script>
+        var myCenter = new google.maps.LatLng(-31.953383, 115.859296);
+        
+        function initialize() {
+        var mapProp = {
+        center:myCenter,
+        zoom:12,
+        scrollwheel:false,
+        draggable:false,
+        mapTypeId:google.maps.MapTypeId.ROADMAP
+        };
+        
+        var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
+        
+        var marker = new google.maps.Marker({
+        position:myCenter,
+        });
+        
+        marker.setMap(map);
+        }
+        
+        google.maps.event.addDomListener(window, 'load', initialize);
+        </script>
+
     </div>
   </div>
 </div>
 
-<!-- Google maps -->
-<!-- Set height and width with CSS -->
-<div id="googleMap" style="height:400px;width:100%;"></div>
-
-<!-- Add Google Maps -->
-<script src="http://maps.googleapis.com/maps/api/js"></script>
-<script>
-var myCenter = new google.maps.LatLng(-31.953383, 115.859296);
-
-function initialize() {
-var mapProp = {
-center:myCenter,
-zoom:12,
-scrollwheel:false,
-draggable:false,
-mapTypeId:google.maps.MapTypeId.ROADMAP
-};
-
-var map = new google.maps.Map(document.getElementById("googleMap"),mapProp);
-
-var marker = new google.maps.Marker({
-position:myCenter,
-});
-
-marker.setMap(map);
-}
-
-google.maps.event.addDomListener(window, 'load', initialize);
-</script>
 
 
 <footer class="container-fluid text-center">

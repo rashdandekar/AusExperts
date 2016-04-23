@@ -10,13 +10,39 @@
       <stop style="stop-color: rgb(165, 165, 165);" offset="1"/>
     </linearGradient>
   </defs>
-  <rect x="-1.4866480149459562" y="0.5415007614326477" width="502.97317147254944" height="500.5394303202629" style="fill: url(#gradient-1);"/>
+  <rect x="-1.4866479635238647" y="0.5415007472038269" width="502.9731750488281" height="500.5394287109375" style="fill: url(#gradient-1);"/>
   <g transform="matrix(1.0225683450698853, 0, 0, 1, -0.8508929146444757, 0.8281093614167752)">
-    <rect x="0.832113325774162" y="374.17198610342405" width="488.96485391134553" height="124.99999816949632" style="fill: rgb(177, 62, 62);"/>
+    <path d="M 0.8321133255958557 374.1719970703125 H 489.79695707559586 V 499.1719970703125 H 0.8321133255958557 V 374.1719970703125 Z" style="fill: rgb(177, 62, 62);"/>
   </g>
   <g transform="matrix(1.0315957069396973, 0, 0, 1, 254.5277099609375, 0.8280906968669619)"/>
   <path d="M 306 417 L 311 613 L 301 613 L 306 417 Z" style="fill: rgb(216, 216, 216);" transform="matrix(5.070707152200706e-17, -0.828109383583069, 0.828109383583069, 5.070707152200706e-17, -126.7897835727317, 806.6080783380422)" bx:shape="triangle 301 417 10 196 0.5 0"/>
-  <rect x="124.9999525200422" y="375.16311153319816" width="250.00001517915848" height="49.99999256812204" style="fill: rgb(247, 0, 0); stroke: rgb(187, 187, 187);"/>
-  <rect x="124.9999905200422" y="424.84969553319814" width="250.00001517915848" height="49.99999256812204" style="fill: rgb(62, 183, 5); stroke: rgb(187, 187, 187);"/>
-  <rect x="125.0000055200422" y="475.3643777665991" width="250.00001517915848" height="24.99999628406102" style="fill: rgb(4, 32, 173); stroke: rgb(187, 187, 187);"/>
+  <rect x="124.99995422363281" y="375.1631164550781" width="250.00001525878906" height="49.99999237060547" style="fill: rgb(247, 0, 0); stroke: rgb(187, 187, 187);"/>
+  <rect x="124.99999237060547" y="424.8497009277344" width="250.00001525878906" height="49.99999237060547" style="fill: rgb(62, 183, 5); stroke: rgb(187, 187, 187);"/>
+  <rect x="125.00000762939453" y="475.3643798828125" width="250.00001525878906" height="24.999996185302734" style="fill: rgb(4, 32, 173); stroke: rgb(187, 187, 187);"/>
+  <path d="M 0 385 L 500.0000305175781 385.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M -0.675354301929474 381.01641845703125 L 499.8641357421875 381.82763671875" style="stroke: rgb(222, 222, 222); fill: none; stroke-width: 0.2;" transform="matrix(1.0000000000000002, 0, 0, 1.0000000000000002, 0.4056235630376932, -131.4220344241856)"/>
+  <path d="M 0 395 L 500.0000305175781 395.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M -5.960464477539063e-8 405 L 500.0000305175781 405.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M 0 415 L 500 415.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M 5.684341886080802e-14 425 L 500.0000305175781 425.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M 5.684341886080802e-14 435 L 500.0000305175781 435.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M -5.9604587931971764e-8 445 L 500.0000305175781 445.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M 5.684341886080802e-14 455 L 500 455.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M 5.684341886080802e-14 465 L 500.0000305175781 465.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M 5.684341886080802e-14 475 L 500.0000305175781 475.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M -5.9604587931971764e-8 485 L 500.0000305175781 485.81121826171875" style="stroke: rgb(0, 0, 0); fill: none; stroke-width: 0.2;"/>
+  <path d="M 50.9999885559082 500 L 49.9999885559082 375" style="stroke: black; fill: none;"/>
+  <path d="M 100.99986267089844 500 L 99.99986267089844 375" style="stroke: black; fill: none;"/>
+  <path d="M 151 500 L 150 375" style="stroke: black; fill: none;"/>
+  <path d="M 201 500 L 200 375" style="stroke: black; fill: none;"/>
+  <path d="M 251 500 L 250 375" style="stroke: black; fill: none;"/>
+  <path d="M 251 500 L 250 375" style="stroke: black; fill: none;"/>
+  <path d="M 301 500 L 300 375" style="stroke: black; fill: none;"/>
+  <path d="M 301 500 L 300 375" style="stroke: black; fill: none;"/>
+  <path d="M 351 500 L 350 375" style="stroke: black; fill: none;"/>
+  <path d="M 351 500 L 350 375" style="stroke: black; fill: none;"/>
+  <path d="M 401 500 L 400 375" style="stroke: black; fill: none;"/>
+  <path d="M 401 500 L 400 375" style="stroke: black; fill: none;"/>
+  <path d="M 451 500 L 450 375" style="stroke: black; fill: none;"/>
+  <path d="M 451 500 L 450 375" style="stroke: black; fill: none;"/>
 </svg>
