@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="http://www.boxy-svg.com/bx">
+  <defs>
+    <linearGradient id="gradient-1" gradientUnits="userSpaceOnUse" x1="249.99992418289185" y1="0.5415008068084717" x2="249.99992418289185" y2="501.080929517746" gradientTransform="matrix(0.999994591306795, -0.0032894504515310597, 0.003241496282969936, 0.9854133981918736, -1.6229100031395831, 8.131482870526808)" spreadMethod="pad">
+      <stop style="stop-color: rgb(103, 210, 201);" offset="0"/>
+      <stop style="stop-color: rgb(165, 165, 165);" offset="1"/>
+    </linearGradient>
+    <linearGradient id="gradient-2" gradientUnits="userSpaceOnUse" x1="534.61181640625" y1="13.791199684143066" x2="534.61181640625" y2="511.08563327789307">
+      <stop style="stop-color: rgb(216, 216, 216);" offset="0"/>
+      <stop style="stop-color: rgb(165, 165, 165);" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect x="-1.4866480149459562" y="0.5415007614326477" width="502.97317147254944" height="500.5394303202629" style="fill: url(#gradient-1);"/>
+  <g transform="matrix(1.0225683450698853, 0, 0, 1, -0.8508929146444757, 0.8281093614167752)">
+    <rect x="0.832113325774162" y="374.17198610342405" width="488.96485391134553" height="124.99999816949632" style="fill: rgb(177, 62, 62);"/>
+  </g>
+  <g transform="matrix(1.0315957069396973, 0, 0, 1, 254.5277099609375, 0.8280906968669619)"/>
+  <path d="M 306 417 L 311 613 L 301 613 L 306 417 Z" style="fill: rgb(216, 216, 216);" transform="matrix(5.070707152200706e-17, -0.828109383583069, 0.828109383583069, 5.070707152200706e-17, -126.7897835727317, 806.6080783380422)" bx:shape="triangle 301 417 10 196 0.5 0"/>
+  <rect x="124.9999525200422" y="375.16311153319816" width="250.00001517915848" height="49.99999256812204" style="fill: rgb(247, 0, 0); stroke: rgb(187, 187, 187);"/>
+  <rect x="124.9999905200422" y="424.84969553319814" width="250.00001517915848" height="49.99999256812204" style="fill: rgb(62, 183, 5); stroke: rgb(187, 187, 187);"/>
+  <rect x="125.0000055200422" y="475.3643777665991" width="250.00001517915848" height="24.99999628406102" style="fill: rgb(4, 32, 173); stroke: rgb(187, 187, 187);"/>
+</svg>

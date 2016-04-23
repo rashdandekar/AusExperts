@@ -191,6 +191,14 @@
     
   }
   
+    .projectpics {
+    max-width:100%;
+    max-height:350px;
+    vertical-align:middle;
+    margin:auto;
+    
+  }
+  
   .row {
     margin-bottom:50px;
   }
