@@ -1,7 +1,7 @@
 {
     "version": "0.1.0",
 
-    "command": "explorer",
+    "command": "explorer.exe",
 
     "windows": {
         "command": "explorer.exe"

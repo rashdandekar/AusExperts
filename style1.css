@@ -30,7 +30,7 @@
       padding: 60px 50px;
   }
   .bg-grey {
-      background-color: #f6f6f6;
+        background-color: #f6f6f6;
   }
   .logo-small {
       color: #05005c;
@@ -44,6 +44,7 @@
       padding: 0 0 15px 0;
       border: none;
       border-radius: 0;
+      text-align:center;
   }
   .thumbnail img {
       width: 100%;
@@ -202,3 +203,12 @@
   .row {
     margin-bottom:50px;
   }
+
+.thumbnail-desc {
+  padding:10px 10px 15px 10px;  
+  max-height:200px; 
+  min-height:200px; 
+  overflow:auto;
+  text-align:left;
+}
+
